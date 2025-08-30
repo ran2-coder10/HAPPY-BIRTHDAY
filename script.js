@@ -19,7 +19,8 @@ buttons.forEach(button => {
     alert("happy birthday renette🎁 may God bless you🤝 all your dreams come true✍️ Never  give up until you reach your goal🚏")
     buttons.removeAttribute("#hide")
     
-}
+}else if(click==598){
+ alert("🎉congratulations You just have press 598 times on the screen and reached the limit, hope you like it😁🫂")
 
   });
 });
